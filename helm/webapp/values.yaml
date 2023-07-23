@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: girish-l/argocd-course-webapp
+  repository: girishl/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 4eefeafcfd632e2b6df839b5f8cc0955bf7af6e9
